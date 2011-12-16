@@ -1,0 +1,4 @@
+____________________________________README_____________________________________
+geneTest.pl is a men-driven software which tests a string composed of A, G, C,
+T and then provides options for manipulating the string, i.e. complementation,
+reversing, creating windows, etc.
